@@ -1,0 +1,93 @@
+{
+  "id": "pekingsuppe",
+  "title": "Pekingsuppe",
+  "ingredients": [
+    {
+      "description": "Hähnchenbrustfilet",
+      "quantity": "1"
+    },
+    {
+      "description": "Zwiebel",
+      "quantity": "1"
+    },
+    {
+      "description": "Tomaten",
+      "quantity": "4"
+    },
+    {
+      "description": "Karotten",
+      "quantity": "2"
+    },
+    {
+      "description": "Sojasprossen",
+      "quantity": "100g"
+    },
+    {
+      "description": "Bambussprossen",
+      "quantity": "100g"
+    },
+    {
+      "description": "Eier",
+      "quantity": "2"
+    },
+    {
+      "description": "Mu-Err-Pilze",
+      "quantity": "einige"
+    },
+    {
+      "description": "Reisessig",
+      "quantity": "100ml"
+    },
+    {
+      "description": "Sojasauce",
+      "quantity": "5El"
+    },
+    {
+      "description": "Chilischoten",
+      "quantity": "2"
+    },
+    {
+      "description": "Sesamöl",
+      "quantity": "1 TL"
+    },
+    {
+      "description": "Zucker",
+      "quantity": "4 TL"
+    },
+    {
+      "description": "Salz",
+      "quantity": ""
+    },
+    {
+      "description": "Tomatenmark",
+      "quantity": "etwas"
+    },
+    {
+      "description": "Wasser",
+      "quantity": "2 Liter"
+    },
+    {
+      "description": "Frühlingszwiebeln",
+      "quantity": "n.B."
+    },
+    {
+      "description": "Öl zum Braten",
+      "quantity": "etwas"
+    }
+  ],
+  "instructions": [
+    "Den Ingwer schälen und in Scheiben schneiden. In 2 Liter kochendes Wasser geben und dabei etwas salzen. Das Hähnchenbrustfilet auch zugeben und eine gute halbe Std. (je nach Größe des Fleisches) gar köcheln lassen.",
+    "Währenddessen die Zwiebel schälen und klein hacken. Die Tomaten schälen und in kleine Würfel schneiden. Die Sojasprossen etwas zerkleinern. Die Karotten schälen und in Stifte schneiden. Die Mu-Err-Pilze in lauwarmem Wasser einlegen und quellen lassen, dabei mehrmals das Wasser wechseln.",
+    "Wenn dass Hähnchenbrustfilet fertig ist, aus dem Sud nehmen und auf einem Brett mit einer Gabel \"zerreißen\", also in kleine Stücke zerteilen (so klein wie möglich). Den Ingwer nun auch aus dem Sud entfernen.",
+    "In einem Wok (eine normale Pfanne geht auch) Öl erhitzen und die Zwiebeln darin anschwitzen. Dann die Sojasprossen und anschließend die Tomatenwürfel zugeben. Das Tomatenmark hinzu geben. Evtl. etwas Wasser beigeben, falls die Masse zu dick wird. Nun die Chilischoten oder Sambal Oelek (je nach gewünschter Schärfe zwischen 1 bis 2 TL – nachwürzen kann man immer noch) dazu geben und salzen. Die Masse etwas köcheln lassen und dann in den Ingwersud geben.",
+    "Nun das Fleisch, die Karottenstifte, die zerkleinerten Mu-Err Pilze und die Bambussprossen mit in die Brühe geben. Mit Sojasauce gut würzen. Den Essig und den Zucker auch zufügen. Es muss ein guter süß-sauer Geschmack entstehen - wer es intensiver will, muss noch mehr Essig und Zucker zugeben.",
+    "Die Speisestärke mit etwas Wasser anrühren. Die Suppe noch einmal aufkochen lassen und mit der Stärke abbinden. In einer Schale nun die Eier verquirlen und unter ständigem Rühren in die Suppe geben, dadurch entsteht der weiße Eierflaum. Am Schluss noch mit Sesamöl abschmecken - aber nicht mehr als 1 TL davon, da das Sesamöl einen starken Eigengeschmack hat.",
+    "Die Suppe in kleinen Schälchen mit etwas Frühlingszwiebeln garniert servieren."
+  ],
+  "labels": [
+    "Suppe",
+    "Winterzeit",
+    "asiatisch"
+  ],
+  "notes": "Comfort food für Erkältungen"
+}

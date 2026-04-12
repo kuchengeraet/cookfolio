@@ -1,0 +1,40 @@
+{
+  "id": "korniger_frischkase",
+  "title": "Körniger Frischkäse mit Lachs und Gurke",
+  "ingredients": [
+    {
+      "description": "Räucherlachs",
+      "quantity": "100g"
+    },
+    {
+      "description": "Gurke",
+      "quantity": "150g"
+    },
+    {
+      "description": "Körniger Frischkäse",
+      "quantity": "200g"
+    },
+    {
+      "description": "Meerrettich",
+      "quantity": "n.B."
+    },
+    {
+      "description": "Zitronensaft",
+      "quantity": "n.B."
+    },
+    {
+      "description": "Dill",
+      "quantity": "n.B."
+    }
+  ],
+  "instructions": [
+    "Den körnigen Frischkäse mit dem Meerrettich vermischen. Lachs und Gurke in mundgerechte Stücke schneiden und zugeben. Nach Belieben mit Zitronensaft und Dill würzen."
+  ],
+  "labels": [
+    "schnell und einfach",
+    "Salat",
+    "kalt",
+    "gesund"
+  ],
+  "notes": "Auch lecker mit Radieschen oder Kresse anstelle von Dill"
+}
