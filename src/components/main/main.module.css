@@ -1,0 +1,8 @@
+.container {
+    padding: 20px 80px;
+    height: 100vh;
+
+    @media (max-width: 800px) {
+        padding: 20px 20px;
+    }
+}
