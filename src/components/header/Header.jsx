@@ -7,7 +7,7 @@ const Header = ({
     return (
         <div className={styles.container}>
             <Link className={styles.link} to={`/cookfolio`}>
-                <img src="/cookfolio/logo.png" alt="logo" width={50} height={50}></img>
+                <img src="/cookfolio/logo.svg" alt="logo" width={50} height={50}></img>
                 <span className={styles.logoText}>Mein Kochbuch</span>
             </Link>
             {children}

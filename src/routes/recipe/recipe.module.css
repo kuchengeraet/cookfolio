@@ -1,15 +1,15 @@
 .recipeContainer {
     display: flex;
     flex-direction: column;
-    background-color: var(--color-white);
+    padding: 25px 0 25px 0;
 }
 
 .title {
     font-family: var(--font-cursive);
     font-size: x-large;
     font-weight: bold;
-    color: var(--color-black);
-    padding: 25px 0 10px 0;
+    color: var(--color-blue);
+    padding: 0 0 10px 0;
 }
 
 .labelContainer {
@@ -35,7 +35,7 @@
     font-family: var(--font-cursive);
     font-size: large;
     font-weight: bold;
-    color: var(--color-black);
+    color: var(--color-blue);
     padding: 15px 0;
     display: flex;
     align-items: center;
@@ -44,7 +44,7 @@
 
 .ingredientsContainer {
     display: grid;
-    grid-template-columns: 100px auto;
+    grid-template-columns: 70px auto;
     grid-gap: 15px;
 }
 
@@ -63,6 +63,7 @@
 }
 
 .responsiveLayoutContainer {
+    padding-top: 10px;
     display: flex;
     flex-direction: row-reverse;
     gap: 20%;

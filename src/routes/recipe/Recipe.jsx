@@ -19,7 +19,7 @@ function Recipe() {
         <>
             <Header />
             {recipe &&
-                <Main backgroundColor="var(--color-white)">
+                <Main>
                     <div className={styles.recipeContainer}>
                         <span className={styles.title}>{recipe.title}</span>
                         <div className={styles.labelContainer}>

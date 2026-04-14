@@ -8,7 +8,7 @@ function Home() {
     return (
         <>
             <Header />
-            <Main backgroundColor="var(--color-background)">
+            <Main>
                 <div className={styles.collectionContainer}>
                     {recipes.map((recipe) => (
                         <Link key={recipe.id} className={styles.link} to={`/cookfolio/recipe/${recipe.id}`}>
