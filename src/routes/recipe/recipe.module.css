@@ -6,8 +6,8 @@
 
 .title {
     font-family: var(--font-cursive);
-    font-size: var(--font-size-x-large);
-    font-weight: bold;
+    font-size: var(--font-size-cursive-x-large);
+    font-weight: var(--font-weight-cursive);
     color: var(--color-blue);
     padding: 0 0 10px 0;
 }
@@ -23,7 +23,7 @@
 
 .label {
     font-size: var(--font-size-default);
-    font-weight: bold;
+    font-weight: var(--font-weight-serif);
     color: var(--color-dark-grey);
     text-wrap: nowrap;
 }
@@ -34,8 +34,8 @@
 
 .sectionTitle {
     font-family: var(--font-cursive);
-    font-size: var(--font-size-large);
-    font-weight: bold;
+    font-size: var(--font-size-cursive-large);
+    font-weight: var(--font-weight-cursive);
     color: var(--color-blue);
     padding: 15px 0;
     display: flex;

@@ -11,7 +11,8 @@
 
 .logoText {
     font-family: var(--font-cursive);
-    font-size: var(--font-size-x-large);
+    font-size: var(--font-size-cursive-x-large);
+    font-weight: var(--font-weight-cursive);
     color: var(--color-blue);
     margin-left: 10px;
 

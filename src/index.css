@@ -6,11 +6,13 @@
   --color-dark-grey: #444444;
   --color-blue: rgb(25, 25, 125);
 
-  --font-cursive: Lucida Handwriting, cursive;
-  --font-serif: Garamond, serif;
-  --font-size-default: 16px;
-  --font-size-large: 18px;
-  --font-size-x-large: 21px;
+  --font-cursive: "Dancing Script", cursive;
+  --font-serif: "EB Garamond", serif;
+  --font-size-serif-default: 16px;
+  --font-size-cursive-large: 25px;
+  --font-size-cursive-x-large: 30px;
+  --font-weight-cursive: bold;
+  --font-weight-serif: 600;
 }
 
 body {

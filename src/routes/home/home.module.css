@@ -33,7 +33,7 @@
 
 .title {
     font-family: var(--font-cursive);
-    font-size: var(--font-size-large);
+    font-size: var(--font-size-cursive-large);
     font-weight: bold;
     color: var(--color-blue)
 }
@@ -47,7 +47,7 @@
 }
 
 .label {
-    font-weight: bold;
-    font-size: var(--font-size-default);
+    font-weight: var(--font-weight-serif);
+    font-size: var(--font-size-serif-default);
     color: var(--color-dark-grey);
 }
