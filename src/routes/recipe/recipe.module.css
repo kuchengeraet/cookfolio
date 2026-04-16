@@ -6,7 +6,7 @@
 
 .title {
     font-family: var(--font-cursive);
-    font-size: x-large;
+    font-size: var(--font-size-x-large);
     font-weight: bold;
     color: var(--color-blue);
     padding: 0 0 10px 0;
@@ -22,6 +22,7 @@
 }
 
 .label {
+    font-size: var(--font-size-default);
     font-weight: bold;
     color: var(--color-dark-grey);
     text-wrap: nowrap;
@@ -33,7 +34,7 @@
 
 .sectionTitle {
     font-family: var(--font-cursive);
-    font-size: large;
+    font-size: var(--font-size-large);
     font-weight: bold;
     color: var(--color-blue);
     padding: 15px 0;
@@ -50,16 +51,19 @@
 
 .ingredientQuantity {
     text-align: right;
+    font-size: var(--font-size-default);
     font-weight: bold;
 }
 
 .ingredientDescription {
     text-align: left;
+    font-size: var(--font-size-default);
     font-weight: bold;
 }
 
 .instruction {
     font-weight: bold;
+    font-size: var(--font-size-default);
 }
 
 .responsiveLayoutContainer {

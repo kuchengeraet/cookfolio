@@ -1,7 +1,7 @@
 .container {
     position: relative;
     background-color: var(--color-white);
-    height: 80px;
+    height: 60px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -11,7 +11,7 @@
 
 .logoText {
     font-family: var(--font-cursive);
-    font-size: x-large;
+    font-size: var(--font-size-x-large);
     color: var(--color-blue);
     margin-left: 10px;
 

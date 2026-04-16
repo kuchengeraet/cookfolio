@@ -8,6 +8,9 @@
 
   --font-cursive: Lucida Handwriting, cursive;
   --font-serif: Garamond, serif;
+  --font-size-default: 16px;
+  --font-size-large: 18px;
+  --font-size-x-large: 21px;
 }
 
 body {
