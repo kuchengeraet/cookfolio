@@ -48,6 +48,11 @@ function Recipe() {
                                         <p className={styles.instruction}>{instruction}</p>
                                     ))
                                 }
+                                {recipe.notes && <>
+                                    <span className={styles.sectionTitle}>Anmerkungen</span>
+                                    <span className={styles.instruction}>{recipe.notes}</span>
+                                </>
+                                }
                             </div>
                         </div>
                     </div>
